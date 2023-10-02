@@ -1,0 +1,12 @@
+Project 4 - Jack Williamson
+ id      Room A       Room B        Result      Comments
+____    ________     ________      ________    __________
+2199   20  0  0 20  0 20 20 20       100
+7001    0  0  0  0  0  0  0  0       ***       No attempts
+7012    0 20  0  0  0  0 20 20       60
+4000   -1 -1 -1 -1 -1 -1 -1 -1       ***       Invalid trial.
+1422   20  0 18 20  0 20 19 20       117
+1372   -1 -1 18 11  0 20  0 20       ***       Invalid trial.
+
+Total chimps: 6
+Total trials: 3
